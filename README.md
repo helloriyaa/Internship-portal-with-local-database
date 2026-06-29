@@ -1,1 +1,0 @@
-# Internship-portal-with-local-database
